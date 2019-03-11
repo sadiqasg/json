@@ -1,9 +1,14 @@
 {
-   "id": 1,
-   "name": "Sadiq₦,
-   "a.k.a": 
-   [
-   "sas", "elon sask", "excel"
-   ],
-   "no": 07038334703
+  "profile": {
+      "id": 1,
+      "name": "Abubakar Sadiq Sambo"
+  },
+  "emails": [
+    { "id": 1, "email": "sadiqasg" },
+    { "id": 2, "email": "agssambo" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]   
 }
